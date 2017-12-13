@@ -2,32 +2,26 @@
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\workspace\weasley\src\main\scala\weasley\CreditCard.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\workspace\weasley\src\main\scala\demo\Trait2.scala, C:\workspace\weasley\src\main\scala\demo\Person.scala, C:\workspace\weasley\src\main\scala\demo\Trait1.scala, C:\workspace\weasley\src\main\scala\demo\Trait3.scala, C:\workspace\weasley\src\main\scala\demo\MainDemo.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\workspace\weasley\target\scala-2.12\classes\demo\Trait3.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Merchant$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\MainTX.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Customer.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\HelloScala.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\MainCC.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\VisaCard.class, C:\workspace\weasley\target\scala-2.12\classes\demo\Trait2.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Merchant.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\AmericanExpressCard.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\MainCC$.class, C:\workspace\weasley\target\scala-2.12\classes\demo\Trait1.class, C:\workspace\weasley\target\scala-2.12\classes\demo\Person$.class, C:\workspace\weasley\target\scala-2.12\classes\demo\MainDemo.class, C:\workspace\weasley\target\scala-2.12\classes\demo\Person.class, C:\workspace\weasley\target\scala-2.12\classes\demo\MainDemo$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\CreditCard$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Transaction$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\HelloScala$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Transaction.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\CreditCard.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\MasterCard.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\MainTX$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\AmericanExpressCard$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Customer$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\Location.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\VisaCard$.class, C:\workspace\weasley\target\scala-2.12\classes\weasley\MasterCard$.class)[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(weasley.CreditCard)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(demo.Trait3, demo.Trait1, demo.Person, demo.MainDemo, demo.Trait2)[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\workspace\weasley\src\main\scala\demo\Trait2.scala, C:\workspace\weasley\src\main\scala\weasley\VisaCard.scala, C:\workspace\weasley\src\main\scala\weasley\Main.scala, C:\workspace\weasley\src\main\scala\weasley\MainTX.scala, C:\workspace\weasley\src\main\scala\weasley\AmericanExpressCard.scala, C:\workspace\weasley\src\main\scala\demo\Person.scala, C:\workspace\weasley\src\main\scala\weasley\Merchant.scala, C:\workspace\weasley\src\main\scala\weasley\Customer.scala, C:\workspace\weasley\src\main\scala\weasley\Transaction.scala, C:\workspace\weasley\src\main\scala\weasley\Location.scala, C:\workspace\weasley\src\main\scala\weasley\CreditCard.scala, C:\workspace\weasley\src\main\scala\demo\Trait1.scala, C:\workspace\weasley\src\main\scala\demo\Trait3.scala, C:\workspace\weasley\src\main\scala\weasley\MainCC.scala, C:\workspace\weasley\src\main\scala\weasley\MasterCard.scala, C:\workspace\weasley\src\main\scala\demo\MainDemo.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(weasley.CreditCard)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(C:\workspace\weasley\src\main\scala\weasley\CreditCard.scala)[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to C:\workspace\weasley\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 16 sources: invalidated sources (16) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 16 Scala sources to C:\workspace\weasley\target\scala-2.12\classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.1:compile for Scala 2.12.3[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.1:compile for Scala 2.12.3[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4b501ecb for Scala compiler version 2.12.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 117a48b0 for Scala compiler version 2.12.3[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	c:\Java\jdk1.8.0_144\jre\lib\resources.jar;c:\Java\jdk1.8.0_144\jre\lib\rt.jar;c:\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;c:\Java\jdk1.8.0_144\jre\lib\jsse.jar;c:\Java\jdk1.8.0_144\jre\lib\jce.jar;c:\Java\jdk1.8.0_144\jre\lib\charsets.jar;c:\Java\jdk1.8.0_144\jre\lib\jfr.jar;c:\Java\jdk1.8.0_144\jre\classes;C:\Users\student\.sbt\boot\scala-2.12.3\lib\scala-library.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	C:\workspace\weasley\target\scala-2.12\classes[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.6537473 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.1833669 s[0m
 [0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
-[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
