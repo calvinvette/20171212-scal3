@@ -31,7 +31,7 @@ abstract class CreditCard(
   override def toString = s"CreditCard($cardNumber, $expirationDate, $billingZip, $nameOnCard, $cardType)"
 }
 
-object CreditCard {
+object CreditCard { // Singleton object; think Java "static"
   private var _numberOfCards = 0
   def incrementCardCount: Unit = _numberOfCards += 1
   def cardCount: Int = _numberOfCards

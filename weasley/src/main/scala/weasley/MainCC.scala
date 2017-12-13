@@ -11,7 +11,7 @@ object MainCC {
     println(amex)
     println("# of cards: " + cardCount)
     println(cardTypeFromNumber(amex.cardNumber))
-    for (i <- 1 until 4) {
+    for (i <- 1 until 3) {
       val anotherCC = inputCard()
       println(anotherCC)
       println("Is it expired? " + isExpired(anotherCC))

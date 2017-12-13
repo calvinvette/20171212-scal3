@@ -1,9 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0mC:\workspace\weasley\src\main\scala\weasley\MainTX.scala:38:10: value city is not a member of weasley.Customer[0m
-[0m[[0m[31merror[0m] [0m[0m    cust.city = "San Francisco"[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\workspace\weasley\src\main\scala\weasley\MainTX.scala:39:10: value state is not a member of weasley.Customer[0m
-[0m[[0m[31merror[0m] [0m[0m    cust.state = "CA"[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0mC:\workspace\weasley\src\main\scala\weasley\MainTX.scala:40:10: value country is not a member of weasley.Customer[0m
-[0m[[0m[31merror[0m] [0m[0m    cust.country = "US"[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m

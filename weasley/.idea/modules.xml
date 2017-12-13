@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellointellij-build.iml" filepath="$PROJECT_DIR$/.idea/modules/hellointellij-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weasley.iml" filepath="$PROJECT_DIR$/.idea/modules/weasley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weasley.iml" filepath="$PROJECT_DIR$/.idea/weasley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/weasley-build.iml" filepath="$PROJECT_DIR$/.idea/modules/weasley-build.iml" />
     </modules>
   </component>
 </project>
