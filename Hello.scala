@@ -1,0 +1,30 @@
+import scala.io.StdIn._
+
+object HelloScala { // object ~= Java static or class variables
+	def main(args: Array[String]): Unit = {
+            //var name = "Harry"
+
+		println("Hello, Scala!");
+                val nameIn = readLine("Your Name> ")
+              //name = if (nameIn.length > 0) nameIn else "Harry"
+              //name = if (nameIn.length > 0) nameIn else "Harry"
+              //name = testName(nameIn)
+              println("Howdy, " + (if (nameIn.length > 0) nameIn else "Harry"));
+	}
+}
+
+/*
+def testName(nameIn: String): String = {
+  if (nameIn.length > 0) 
+    nameIn
+  "Harry"
+}
+*/
+
+/*
+class HelloJava {
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+	}
+}
+*/
