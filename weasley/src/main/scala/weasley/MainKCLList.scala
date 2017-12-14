@@ -17,7 +17,7 @@ object MainKCLList {
 
   def haversine(latitude1: Double, longitude1: Double, latitude2: Double, longitude2: Double): Double = {
     val diffLat = Math.toRadians(latitude2 - latitude1)
-    val diffLong = Math.toRadians(longitude2 - longitude2)
+    val diffLong = Math.toRadians(longitude2 - longitude1)
     val a =
       Math.sin(diffLat/2) * Math.sin(diffLat/2) +
         Math.cos(Math.toRadians(latitude1)) * Math.cos(Math.toRadians(latitude2)) *
