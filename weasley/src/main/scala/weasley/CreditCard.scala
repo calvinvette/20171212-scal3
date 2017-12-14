@@ -36,6 +36,14 @@ object CreditCard { // Singleton object; think Java "static"
   def incrementCardCount: Unit = _numberOfCards += 1
   def cardCount: Int = _numberOfCards
 
+  def apply(cardNumber: String, expirationDate: YearMonth, billingZip: Int, nameOnCard: String, cardType: String) = {
+    createCard(cardNumber, expirationDate, billingZip, nameOnCard) // Ignore cardType; createCard will infer
+  }
+
+  def unapply(cc: CreditCard): Option[(String, YearMonth, Int, String, String)] =
+    Option((cc.cardNumber, cc.expirationDate, cc.billingZip, cc.nameOnCard, cc.cardType))
+
+
   def inputCard(): CreditCard = {
     val cardNumber = readLine("Card Number:\t")
     val expirationDateString = readLine("Expiration Date (MM/DDDD):\t")
@@ -59,7 +67,10 @@ object CreditCard { // Singleton object; think Java "static"
     case _ => "UNK"
   }
 
-  def createCard(cardNumber: String, expirationDate: YearMonth, billingZip: Int, nameOnCard: String): CreditCard = {
+  def createCard(cardNumber: String,
+                 expirationDate: YearMonth,
+                 billingZip: Int,
+                 nameOnCard: String): CreditCard = {
     cardTypeFromNumber(cardNumber) match {
       case "AmEx" => new AmericanExpressCard(cardNumber, expirationDate, billingZip, nameOnCard)
       case "Visa" => new VisaCard(cardNumber, expirationDate, billingZip, nameOnCard)
@@ -67,4 +78,14 @@ object CreditCard { // Singleton object; think Java "static"
       case _ => null
     }
   }
+
+  def checkCard(cc: CreditCard): String = {
+    cc match {
+      case crd: MasterCard if CreditCard.isExpired(crd) => "MC expired"
+      case CreditCard("5111-1111-1111-1111", _, _, _, _) => "MC Testing Card"
+      case _: MasterCard => "Regular MC card, not expired"
+      case _ => "Not an MC Card"
+    }
+  }
+
 }

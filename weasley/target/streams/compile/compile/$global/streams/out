@@ -1,8 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0mC:\workspace\weasley\src\main\scala\demo\Person.scala:3:12: class Person inherits conflicting members:[0m
-[0m[[0m[31merror[0m] [0m[0m  method name in trait Trait2 of type => String  and[0m
-[0m[[0m[31merror[0m] [0m[0m  method name in trait Trait3 of type => String[0m
-[0m[[0m[31merror[0m] [0m[0m(Note: this can be resolved by declaring an override in class Person.);[0m
-[0m[[0m[31merror[0m] [0m[0m other members with override errors are: name_=[0m
-[0m[[0m[31merror[0m] [0m[0mcase class Person([0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

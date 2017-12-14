@@ -2,10 +2,16 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	demo\Trait3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\demo\Trait3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$$anon$3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\Merchant$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\Merchant$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCL$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCL$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\MainTX.class[0m
@@ -28,8 +34,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\demo\Trait2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\Merchant.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\Merchant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\AmericanExpressCard.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\AmericanExpressCard.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$$anon$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\MainCC$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainCC$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	demo\Trait1.class[0m
@@ -38,8 +52,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\demo\Person$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	demo\MainDemo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\demo\MainDemo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$$anon$5.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCL$$anon$4.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCL$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLWithApply$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLWithApply$$anon$4.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	demo\Person.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\demo\Person.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	demo\MainDemo$.class[0m
@@ -56,6 +74,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\Transaction.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\CreditCard.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\CreditCard.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCLList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCLList.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\MainKCL$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  C:\workspace\weasley\target\scala-2.12\classes\weasley\MainKCL$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	weasley\MasterCard.class[0m

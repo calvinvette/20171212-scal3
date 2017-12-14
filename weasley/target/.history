@@ -10,3 +10,6 @@ clean
 package
 clean
 package
+run
+compile
+package
