@@ -8,5 +8,7 @@ lazy val root = (project in file(".")).
       version      := "0.1.0-SNAPSHOT"
     )),
     name := "Weasley",
-    libraryDependencies += scalaTest % Test
+    libraryDependencies += scalaTest % Test,
+    libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.4",
+    libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.4" % "test"
   )

@@ -13,3 +13,5 @@ package
 run
 compile
 package
+test\
+test
